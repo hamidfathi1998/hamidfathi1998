@@ -9,4 +9,5 @@ As a true team player, I thrive in fast-paced environments and leave no detail u
 Let's build something amazing together! Connect with me, and let's turn your ideas into stunning Android experiences. 🌟 #AndroidDev #PassionInCode
 
 🌱 Android Developer @ Baloot
+</br>
 📫 hamid.fathi.developer@gmail.com
