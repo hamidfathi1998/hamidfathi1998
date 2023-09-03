@@ -7,3 +7,6 @@ With a wealth of experience spanning many years.
 As a true team player, I thrive in fast-paced environments and leave no detail unchecked. I specialize in creating rock-solid project architectures from the ground up. 🏗️
 
 Let's build something amazing together! Connect with me, and let's turn your ideas into stunning Android experiences. 🌟 #AndroidDev #PassionInCode
+
+🌱 Android Developer @ Baloot
+📫 hamid.fathi.developer@gmail.com
